@@ -1,5 +1,4 @@
 # SortingVisualizer
-# SortingVisualizer
 ## Overview
 The Sorting Visualizer is an interactive web application built with React that allows users to visualize how different sorting algorithms work. It displays a visual representation of sorting operations on an array, helping users understand algorithms like **Bubble Sort**, **Insertion Sort**, and **Selection Sort** in real time.
 
